@@ -1,4 +1,4 @@
-# ToDO
+﻿# ToDO
 fair les diapo
 finir mcts python et rediger les preuves
 
@@ -6,8 +6,7 @@ finir mcts python et rediger les preuves
 
 - la complexité rigoureuse
 - prouver la terminaison
-- prouver la correction (on est bien niqué)
-- la grosse flemme de prouver que quelqu'un a forcément gagné
+- prouver la correction
 
 ## en gros:
 

@@ -1,7 +1,7 @@
-
+﻿
 Ce dossier contient :
 
-- Les fonctions de base de thibault sous le nom baseHex
+- Les fonctions de base sous le nom baseHex
 - Le MinMax pondéré sous le nom MinMaxPondéré
 - La méthode aléatoire simili-MCTS avec :
     -L'objet Node utilisé sous le nom objetAléatoire 
